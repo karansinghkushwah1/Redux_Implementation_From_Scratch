@@ -22,8 +22,8 @@ Enhances the `createStore` function to apply middleware to the `dispatch` functi
 ## How to use?
 
 ```bash
-$ git clone https://github.com/your-username/redux-from-scratch.git
-$ cd redux-from-scratch
+$ git clone https://github.com/karansinghkushwah1/Redux_Implementation_From_Scratch.git
+$ cd Redux_Implementation_From_Scratch
 $ npm install
 $ node redux_implementation.js
 ```
